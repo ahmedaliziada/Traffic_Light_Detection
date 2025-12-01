@@ -155,7 +155,7 @@ streamlit run app.py --server.headless true
 - **Multi-scale Detection**: Detects traffic lights at various distances
 
 <div align="center">
-  <img src="image.png" alt="YOLOv5 traffic light detection with bounding boxes" width="700"/>
+  <img src="assets/image.png" alt="YOLOv5 traffic light detection with bounding boxes" width="700"/>
   <p><em>Figure 1: YOLOv5 detecting traffic lights and generating bounding boxes</em></p>
 </div>
 
@@ -165,7 +165,7 @@ streamlit run app.py --server.headless true
 - Buffer zone to ensure complete light capture
 
 <div align="center">
-  <img src="image-2.png" alt="Extracted region of interest from detected traffic light" width="500"/>
+  <img src="assets/image-2.png" alt="Extracted region of interest from detected traffic light" width="500"/>
   <p><em>Figure 2: Cropped Region of Interest (ROI) for color analysis</em></p>
 </div>
 
@@ -176,7 +176,7 @@ streamlit run app.py --server.headless true
 - **Value**: Brightness level
 
 <div align="center">
-  <img src="image-3.png" alt="RGB to HSV color space conversion visualization" width="650"/>
+  <img src="assets/image-3.png" alt="RGB to HSV color space conversion visualization" width="650"/>
   <p><em>Figure 3: Converting RGB image to HSV color space for robust color detection</em></p>
 </div>
 
@@ -209,14 +209,14 @@ dominant_color = color_with_maximum_pixel_count
 - Apply minimum threshold to avoid false positives
 
 <div align="center">
-  <img src="image-5.png" alt="Color classification results showing detected traffic light state" width="600"/>
+  <img src="assets/image-5.png" alt="Color classification results showing detected traffic light state" width="600"/>
   <p><em>Figure 4: Traffic light state classification based on dominant color</em></p>
 </div>
 
 #### 6. **Final Results**
 
 <div align="center">
-  <img src="image-1.png" alt="Final detection results with annotated bounding boxes and state labels" width="700"/>
+  <img src="assets/image-1.png" alt="Final detection results with annotated bounding boxes and state labels" width="700"/>
   <p><em>Figure 5: Complete detection pipeline showing final results with color-coded labels</em></p>
 </div>
 
@@ -227,7 +227,7 @@ dominant_color = color_with_maximum_pixel_count
 - **Visualization**: Draws bounding boxes with state labels
 
 <div align="center">
-  <img src="image-6.png" alt="Multiple traffic lights detected simultaneously in single image" width="700"/>
+  <img src="assets/image-6.png" alt="Multiple traffic lights detected simultaneously in single image" width="700"/>
   <p><em>Figure 6: System detecting and classifying multiple traffic lights simultaneously</em></p>
 </div>
 
