@@ -15,6 +15,7 @@ A professional, production-ready Computer Vision application that uses YOLOv5 de
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
+- [📓 Interactive Notebook Tutorial](Educational_NoteBook.ipynb)
 - [How It Works](#how-it-works)
 - [Applications](#applications)
 - [Configuration](#configuration)
