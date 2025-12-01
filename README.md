@@ -306,7 +306,7 @@ This project is licensed under the MIT License.
 
 ## 👥 Authors
 
-- **Traffic Light Detection Team**
+- **Ahmed Ziada**
 
 ## 🙏 Acknowledgments
 

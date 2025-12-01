@@ -4,4 +4,4 @@ A professional Computer Vision application for detecting and classifying traffic
 """
 
 __version__ = "1.0.0"
-__author__ = "Traffic Light Detection Team"
+__author__ = "Ahmed Ziada"

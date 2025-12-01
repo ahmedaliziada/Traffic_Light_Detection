@@ -2,7 +2,7 @@
 Traffic Light Detection System - Main Application
 A professional Computer Vision application for real-time traffic light detection and classification.
 
-Author: Traffic Light Detection Team
+Author: Ahmed Ziada
 Version: 1.0.0
 """
 
